@@ -1,7 +1,7 @@
 {
   "name": "@bgibge/crypto",
   "version": "0.1.0",
-  "description": "简化接口的密码工具",
+  "description": "A simple crypto tool",
   "main": "index.js",
   "scripts": {
     "start": "npm run run --",
