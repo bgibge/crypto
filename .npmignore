@@ -1,0 +1,4 @@
+__test__/
+Makefile
+.eslintrc.yml
+.DS_Store
